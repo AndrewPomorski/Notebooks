@@ -1,2 +1,2 @@
 type,underlying,strike,dividendYield,riskFreeRate,expiry,volatility
-call,39.55,39,6.48,0.001,29/6/22,17.03
+call,39.55,39,6.48,0.001,29/6/22,23
